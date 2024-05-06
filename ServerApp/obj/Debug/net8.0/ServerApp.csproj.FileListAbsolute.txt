@@ -1,0 +1,14 @@
+/Users/joanneliu/Desktop/windows-app/ServerApp/bin/Debug/net8.0/ServerApp
+/Users/joanneliu/Desktop/windows-app/ServerApp/bin/Debug/net8.0/ServerApp.deps.json
+/Users/joanneliu/Desktop/windows-app/ServerApp/bin/Debug/net8.0/ServerApp.runtimeconfig.json
+/Users/joanneliu/Desktop/windows-app/ServerApp/bin/Debug/net8.0/ServerApp.dll
+/Users/joanneliu/Desktop/windows-app/ServerApp/bin/Debug/net8.0/ServerApp.pdb
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.AssemblyInfoInputs.cache
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.AssemblyInfo.cs
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.csproj.CoreCompileInputs.cache
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.dll
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/refint/ServerApp.dll
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.pdb
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.genruntimeconfig.cache
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ref/ServerApp.dll
