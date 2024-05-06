@@ -129,3 +129,4 @@
 /Users/joanneliu/Desktop/windows-app/ConversionApp/obj/Debug/net8.0/Conversi.60036033.Up2Date
 /Users/joanneliu/Desktop/windows-app/ConversionApp/obj/Debug/net8.0/ConversionApp.genruntimeconfig.cache
 /Users/joanneliu/Desktop/windows-app/ConversionApp/obj/Debug/net8.0/ref/ConversionApp.dll
+/Users/joanneliu/Desktop/windows-app/ConversionApp/obj/Debug/net8.0/ConversionApp.sourcelink.json

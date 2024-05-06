@@ -12,3 +12,4 @@
 /Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.pdb
 /Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.genruntimeconfig.cache
 /Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ref/ServerApp.dll
+/Users/joanneliu/Desktop/windows-app/ServerApp/obj/Debug/net8.0/ServerApp.sourcelink.json
